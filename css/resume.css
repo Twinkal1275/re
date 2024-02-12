@@ -1,0 +1,73 @@
+.container
+{
+    height: 600px;
+    background: url(../images/twin5.jpg) no-repeat;
+    background-attachment: fixed;
+    background-position: 70% 37% !important;
+    background-size: cover !important; 
+}
+.box1
+{
+    background: rgba(177, 148, 112, 0.6);
+}
+.box1 h1
+{
+    width: 30% !important;
+    font-size: 50px !important;
+}
+.box2
+{
+    background-color: rgba(180, 180, 184, 0.3) !important;
+    position: relative !important;
+}
+.edu
+{
+    margin-top: 57% !important;
+}
+.footer
+{
+    width: 100% !important;
+    /* margin-left: -1% !important; */
+    height: 390px !important;
+    background-color: rgba(20, 50 ,90 ,0.3) !important;
+}
+.footer h1
+{
+    margin-left: 13% !important;
+    text-decoration: underline !important;
+}  
+.social1,.social2,.social3,.social4,.social5
+{
+    font-size: 65px !important;
+  
+}
+.social1
+{
+    margin-top: 5% !important;
+    position: absolute;
+    margin-left: 75% !important;
+}
+.social2
+{
+    margin-top: 25% !important;
+    position: absolute;
+    margin-left: 75% !important;
+}
+.social3
+{
+    margin-top: 45% !important;
+    position: absolute;
+    margin-left: 75% !important;
+}
+.social4
+{
+    margin-top: 15% !important;
+    position: absolute;
+    margin-left: 55% !important;
+}
+.social5
+{
+    margin-top: 35% !important;
+    position: absolute;
+    margin-left: 55% !important;
+}
